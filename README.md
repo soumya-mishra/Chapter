@@ -28,5 +28,18 @@ Matrix:
 
 Max and Min of a function 
 
+Linear Programming:
+----------------
+for Optimization
+- Primal 
+- Dual
+
+Maximum Likelihood estimation:
+
+Probability vs Likelihood
+
+1. gradient descent method
+2. Expectation maximization
+
 
 
